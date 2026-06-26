@@ -1,7 +1,6 @@
 
 
 
-
 #include "stm32f10x.h"
 
 uint16_t CountOfToggle = 0;
